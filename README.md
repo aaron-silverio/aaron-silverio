@@ -35,8 +35,10 @@ Here are some ideas to get you started:
 * **CHIP-8 CPU Emulator** 
   Built a full Fetch-Decode-Execute cycle emulator in C++ and CMake. Implemented 35 opcodes to simulate processor architecture and built a real-time graphics and input system using SDL2.
 
-* **We Are On Time & We Are Booked** 
+* **We Are On Time & We Are Booked**
+  > See We Are Booked Repo [here](https://github.com/aaron-silverio/WeAreBooked)
   Developed a full-stack smart scheduling web application integrating live university bus data (Next.js), alongside a decentralized room-booking dApp utilizing smart contract escrows on the blockchain (Solidity).
 
-* **Analog Karaoke Mixer** [See Repo Here](https://github.com/aaron-silverio/analog-tone-control-amplifier)
+* **Analog Karaoke Mixer**
+  > [See Repo Here](https://github.com/aaron-silverio/analog-tone-control-amplifier)
   Designed and physically built a custom analog audio mixer utilizing operational amplifiers.
