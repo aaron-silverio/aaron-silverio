@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 
 **computer engineering @ penn state '28**
 
-### Right now:
+### right now:
 * 🏜️ **Summer 2026:** embedded swe intern @ **JT4** — Developing bare-metal embedded software and working with Arty FPGAs in a secure hardware facility.
 * 🔬 **Fall 2026:** incoming undergraduate research assistant @ **Penn State EE Department**.
 
-### Hardware & Software Stack
+## my stack
 * **Languages:** C, C++, Verilog, Solidity, JavaScript (React/Next.js), Python, Java
 * **Embedded & Architecture:** Bare-metal microcontrollers (STM32 M4, ESP32), FPGAs (Tang Nano), Digital Logic Design, Ethernet/SPI transport layers, I2C
 * **Tools & Build Systems:** Vivado, CMake, SDL2, Git
 * **Spoken Languages:** English, Spanish (Professional Working)
 
-### Projects
+### my projects
 
 * **STM32 OTA Ethernet Bootloader** 
   Internship Project. Designed and implemented a standalone Over-The-Air (OTA) bootloader for STM32 microcontrollers. Researched a remote programming implementation for an ARTY A7 FPGA.
