@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 * **We Are On Time & We Are Booked** 
   Developed a full-stack smart scheduling web application integrating live university bus data (Next.js), alongside a decentralized room-booking dApp utilizing smart contract escrows on the blockchain (Solidity).
 
-* **Analog Karaoke Mixer**  [See repo here](https://github.com/yourusername/stm32-ethernet-tftp-bootloader](https://github.com/aaron-silverio/analog-tone-control-amplifier)
+* **Analog Karaoke Mixer** [See Repo Here](https://github.com/aaron-silverio/analog-tone-control-amplifier)
   Designed and physically built a custom analog audio mixer utilizing operational amplifiers.
