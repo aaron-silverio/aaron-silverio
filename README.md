@@ -49,3 +49,8 @@
 * **CHIP-8 CPU Emulator** 
 
   Built a full Fetch-Decode-Execute cycle emulator in C++ and CMake. Implemented 35 opcodes to simulate processor architecture, wrote the opcode interpreter, managed memory registers, and built a real-time graphics and input system using SDL2.
+
+* **Course Scheduler Application**
+  > [See Repo Here](https://github.com/aaron-silverio/Course-Scheduler)
+
+  Engineered a 3-tier Java Swing desktop application connected to a Apache Derby SQL relational database to manage university course enrollments. Built robust database queries via JDBC `PreparedStatement` interfaces, featuring automated waitlist management that promotes waitlisted students based on strict timestamp priority.
