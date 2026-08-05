@@ -13,32 +13,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# hey, it's aaron!
+# hey, it's aaron
 
 **computer engineering @ penn state '28**
 
-### right now:
-* 🏜️ **Summer 2026:** embedded swe intern @ **JT4** — Developing bare-metal embedded software and working with Arty FPGAs in a secure hardware facility.
-* 🔬 **Fall 2026:** incoming undergraduate research assistant @ **Penn State EE Department**.
+### my experiences:
+* 🏜️ **summer 2026:** embedded swe intern @ **JT4** — developed bare-metal embedded software and researched with Arty FPGAs in a secure hardware facility
+* 🔬 **fall 2026:** incoming undergraduate research assistant @ **Penn State EE Department**
 
 ## my stack
-* **Languages:** C, C++, Verilog, Solidity, JavaScript (React/Next.js), Python, Java
-* **Embedded & Architecture:** Bare-metal microcontrollers (STM32 M4, ESP32), FPGAs (Tang Nano), Digital Logic Design, Ethernet/SPI transport layers, I2C
-* **Tools & Build Systems:** Vivado, CMake, SDL2, Git
-* **Spoken Languages:** English, Spanish (Professional Working)
+* **languages:** C, C++, Verilog, Solidity, JavaScript (React/Next.js), Python, Java
+* **embedded & architecture:** Bare-metal microcontrollers (STM32 M4, ESP32), FPGAs (Tang Nano), Digital Logic Design, Ethernet/SPI transport layers, I2C
+* **tools & build systems:** Vivado, CMake, SDL2, Git
+* **spoken languages:** English, Spanish (Professional Working)
 
 ### my projects
 
-* **STM32 OTA Ethernet Bootloader** 
-  Internship Project. Designed and implemented a standalone Over-The-Air (OTA) bootloader for STM32 microcontrollers. Researched a remote programming implementation for an ARTY A7 FPGA.
-
-* **CHIP-8 CPU Emulator** 
-  Built a full Fetch-Decode-Execute cycle emulator in C++ and CMake. Implemented 35 opcodes to simulate processor architecture and built a real-time graphics and input system using SDL2.
-
 * **We Are On Time & We Are Booked**
-  > See We Are Booked Repo [here](https://github.com/aaron-silverio/WeAreBooked)
+  > [See Repo Here](https://github.com/aaron-silverio/WeAreBooked)
   Developed a full-stack smart scheduling web application integrating live university bus data (Next.js), alongside a decentralized room-booking dApp utilizing smart contract escrows on the blockchain (Solidity).
 
 * **Analog Karaoke Mixer**
   > [See Repo Here](https://github.com/aaron-silverio/analog-tone-control-amplifier)
   Designed and physically built a custom analog audio mixer utilizing operational amplifiers.
+
+* **STM32 OTA Ethernet Bootloader** 
+> Internship Project. Designed and implemented a standalone Over-The-Air (OTA) bootloader for STM32 microcontrollers. Researched and prototyped a remote programming implementation for an ARTY A7 FPGA.
+
+* **CHIP-8 CPU Emulator** 
+> Built a full Fetch-Decode-Execute cycle emulator in C++ and CMake. Implemented 35 opcodes to simulate processor architecture and built a real-time graphics and input system using SDL2.
+
