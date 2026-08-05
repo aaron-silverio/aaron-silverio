@@ -13,17 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-hey, it's aaron
-
-**computer engineering @ penn state '28**
-
-### my experience:
-* **summer 2026:** embedded swe intern @ **JT4** — developed bare-metal embedded software and researched with Arty FPGAs
-* **fall 2026:** incoming undergraduate research assistant @ **Penn State EE Department**
-
----
-
-hey, it's aaron
+# hey, i'm aaron
 
 **computer engineering @ penn state '28**
 
